@@ -23,10 +23,15 @@ public class App {
         PersonController pController = new PersonController();
         pController.sortPersonByAge(personas);
 
+        pController.sortPersonByName(personas);
+
         System.out.println("\n==== Ordenado ====\n");
         for (Person person : personas) {
             System.out.println(person);
         }
+
+        
+
     }
 
 }
