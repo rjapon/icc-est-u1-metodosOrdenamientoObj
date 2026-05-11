@@ -1,18 +1,20 @@
-## Getting Started
+# Clase
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Estudiante
+Richard Japón
 
-## Folder Structure
+## Metodo de ordenamiento con Insersion 
 
-The workspace contains two folders by default, where:
+### Fecha
+06/05/2026
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Descripcion
+Este programa es un metodo de ordenacion que construye una lista ordenada elemento a elemento , comparando e insertando los elementos en sus posiciones correctas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Metodo de ordenamiento con Seleccion
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Fecha
+11/05/2026
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Descripcion
+Es un algoritmo de ordenamiento que divide el arreglo en dos partes: una parte ordenada  que se construye gradualmente y otra no ordenada
